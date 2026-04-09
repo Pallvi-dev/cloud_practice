@@ -6,6 +6,3 @@ Total Warnings: 1
 ---- Error Details ----
 ERROR Database connection failed
 ERROR Timeout occurred
-
----- Warning Details ----
-WARNING Disk space low

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 LOG_FILE=$1
 
 if [ -z "$LOG_FILE" ]; then
